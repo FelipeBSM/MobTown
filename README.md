@@ -12,17 +12,17 @@ Anyway, hope u like, i´ll leave some basic instructions down bellow! Byeeee!
 
 # REPOSITORY INSTRUCTIONS
 
-Where u can find my scripts >>>>> Assets/Scripts/... --> They are divided by functionality (i guess)
+Where u can find my scripts >>>>> <b>Assets/Scripts/...</b> --> They are divided by functionality (i guess)
 <br>
 <br>
-Where u can find sounds >>>>> Assets/Sounds/...
+Where u can find sounds >>>>> <b>Assets/Sounds/...</b>
 <br>
 <br>
-Where u can find User Interface Art >>>>> Assets/UI/...
+Where u can find User Interface Art >>>>> <b>Assets/UI/...</b>
 <br>
 <br>
 Where u can find custom Shaders >>>>> <b>Assets/MyShaders/...</b>
 <br>
 <br>
-Where u can find custom 3D Models >>>>> Assets/MyModels/...
+Where u can find custom 3D Models >>>>> <b>Assets/MyModels/...</b>
 
