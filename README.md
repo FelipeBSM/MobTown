@@ -13,5 +13,7 @@ Anyway, hope u like, i´ll leave some basic instructions down bellow! Byeeee!
 # REPOSITORY INSTRUCTIONS
 
 Where u can find my scripts >>>>> Assets/Scripts/... --> They are divided by functionality (i guess)
+<br>
 Where u can find sounds >>>>> Assets/Sounds/...
+<br>
 Where u can find User Interface Art >>>>> Assets/UI/...
