@@ -14,11 +14,15 @@ Anyway, hope u like, i´ll leave some basic instructions down bellow! Byeeee!
 
 Where u can find my scripts >>>>> Assets/Scripts/... --> They are divided by functionality (i guess)
 <br>
+<br>
 Where u can find sounds >>>>> Assets/Sounds/...
+<br>
 <br>
 Where u can find User Interface Art >>>>> Assets/UI/...
 <br>
-Where u can find custom Shaders >>>>> Assets/MyShaders/...
+<br>
+Where u can find custom Shaders >>>>> <b>Assets/MyShaders/...</b>
+<br>
 <br>
 Where u can find custom 3D Models >>>>> Assets/MyModels/...
 
