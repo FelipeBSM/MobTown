@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Waypoint
+  - Junction
+  - Bus
+  - PedestrianJunc
+  - HumanTrigger
+  - PlayerDoor
+  - StreetIntel
+  - AI_Destination
+  - System
+  - MechanicalStore
+  - Beach
+  - DeathKillPass
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Car
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
